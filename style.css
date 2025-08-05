@@ -1,4 +1,4 @@
-/* Reset default margin and padding */
+
 * {
     margin: 0;
     padding: 0;
@@ -10,7 +10,7 @@ nav {
     padding: 15px;
 }
 
-/* Heading and menu */
+
 h1, li, ul {
     display: inline;
 }
@@ -45,7 +45,7 @@ input {
     font-size: 15px;
 }
 
-/* Product container */
+
 .products {
     text-align: center;
     padding: 20px;
@@ -78,7 +78,7 @@ input {
     cursor: pointer;
 }
 
-/* Order button */
+
 .order {
     margin: 30px auto;
     width: 150px;
@@ -126,6 +126,7 @@ input {
 }
 
 .main {
-    background-color: #e0f8f4; /* Light aquamarine style */
+    background-color: #e0f8f4; 
     padding-bottom: 40px;
+
 }
